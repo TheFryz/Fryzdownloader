@@ -1,4 +1,3 @@
-"# FryzDownloader" 
 ![image](https://i.imgur.com/g2HWdGY.png)
 To actually use, download:
 - .NET Desktop Runtime 6.0
