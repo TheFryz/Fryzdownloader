@@ -61,7 +61,7 @@ namespace Fryzdownloader
                 {
                     if (item.Track is FullTrack track)
                     {
-                        var convert = await youtube.Search.GetResultsAsync(track.Artists[0].Name +" - " + track.Name);
+                        var convert = await youtube.Search.GetResultsAsync(track.Artists[0].Name +" - " + track.Name).CollectAsync(1);
                         Form1._Form1.logsBox.Items.Add("Searching:" + track.Artists[0].Name + " - "+  track.Name);
                         var video = await youtube.Videos.GetAsync(convert.FirstOrDefault().Url);
                         var title = Regex.Replace(video.Title, @"[^a-zA-Z0-9[\]._-]", " ");
@@ -94,7 +94,7 @@ namespace Fryzdownloader
 
                 var song = await spotify.Tracks.Get(Link);
                 Form1._Form1.logsBox.Items.Add("Searching: " + song.Artists[0].Name + " - " + song.Name);
-                var convert = await youtube.Search.GetResultsAsync(song.Artists[0].Name + " - " + song.Name);
+                var convert = await youtube.Search.GetResultsAsync(song.Artists[0].Name + " - " + song.Name).CollectAsync(1);
                 var video = await youtube.Videos.GetAsync(convert.FirstOrDefault().Url);
                 var filename = Regex.Replace(video.Author.ChannelTitle, @"[^a-zA-Z0-9[\&!()]._-]", " ") + " - " + Regex.Replace(video.Title, @"[^a-zA-Z0-9[\&!()]._-]", " ") + Format;
                 var filepath = Properties.Settings.Default.output;
