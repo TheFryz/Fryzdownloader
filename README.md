@@ -1,6 +1,6 @@
 ![image](https://i.imgur.com/g2HWdGY.png)
 To actually use, download:
-- .NET Desktop Runtime 6.0
+- [.NET Desktop Runtime 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 - FFMPEG
 
 https://dotnet.microsoft.com/en-us/download/dotnet/6.0
