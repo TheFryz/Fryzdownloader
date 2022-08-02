@@ -1,8 +1,5 @@
 "# FryzDownloader" 
-![image](https://i.imgur.com/jPZw9Nc.png)
-![image](https://i.imgur.com/134ueUs.png)
-![image](https://i.imgur.com/IrFej6g.png)
-![image](https://i.imgur.com/CnZxoq4.png)
+![image](https://i.imgur.com/g2HWdGY.png)
 To actually use, download:
 - .NET Desktop Runtime 6.0
 - FFMPEG
