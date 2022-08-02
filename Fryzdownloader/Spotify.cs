@@ -16,6 +16,7 @@ namespace Fryzdownloader
         //Very slow and idk how to fix
         //Very slow and idk how to fix
         //Very slow and idk how to fix
+        //I think its the searching part
         public string Link { get; set;  }
         public string Format { get; }
         public bool Playlist { get; set; }
