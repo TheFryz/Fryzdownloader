@@ -7,10 +7,6 @@ https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 
 https://ffmpeg.org/download.html
 
-Youtube downloads by ID.
-Spotify downloads by "Artist - Song Name" in a youtube search extracted by metadata from Spotify Web Api.
-Soundcloud hasnt been worked on.
-
 To setup spotify go to https://developer.spotify.com/dashboard/ and sign in with a existing spotify account and make a new app. Paste the Client ID, and Secret into the settings of FryzDownloader to download media from Spotify.
 
 A known issue is sometimes spotify wont extract an author of a song and the whole things freezes.
