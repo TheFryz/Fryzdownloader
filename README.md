@@ -5,9 +5,9 @@ To actually use, download:
 https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 https://ffmpeg.org/download.html
 
-Youtube downloads by ID
-Spotify downloads by "Artist - Song Name" in a youtube search extracted by metadata from Spotify Web Api
-Soundcloud hasnt been worked on
+Youtube downloads by ID.
+Spotify downloads by "Artist - Song Name" in a youtube search extracted by metadata from Spotify Web Api.
+Soundcloud hasnt been worked on.
 
 A known issue is sometimes spotify wont extract an author of a song and the whole things freezes.
 I know the Discord button dosent work because my last Discord account got banned for doing something like this.
