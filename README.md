@@ -4,6 +4,7 @@ To actually use, download:
 - [FFMPEG](https://ffmpeg.org/download.html)
 
 [Virus Total](https://www.virustotal.com/gui/file-analysis/MjM3OTk3NzMwYTUxZTAxMDgzZWVmY2Y4NDY1MTFkZGQ6MTY1OTQxNjA5Nw==)
+
 [Setup + Demo](https://youtu.be/MAZsQTD8eb8)
 
 To setup spotify go to [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/) and sign in with a existing spotify account and make a new app. Paste the Client ID, and Secret into the settings of FryzDownloader to download media from Spotify.
