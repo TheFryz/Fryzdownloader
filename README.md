@@ -11,6 +11,8 @@ Youtube downloads by ID.
 Spotify downloads by "Artist - Song Name" in a youtube search extracted by metadata from Spotify Web Api.
 Soundcloud hasnt been worked on.
 
+To setup spotify go to https://developer.spotify.com/dashboard/ and sign in with a existing spotify account and make a new app. Paste the Client ID, and Secret into the settings of FryzDownloader to download media from Spotify.
+
 A known issue is sometimes spotify wont extract an author of a song and the whole things freezes.
 I know the Discord button dosent work because my last Discord account got banned for doing something like this.
 Also the exit button needs to be clicked twice to actually fade out and exit, idk why.
