@@ -1,0 +1,2 @@
+C:\Users\Fryz\source\repos\Fryzdownloader\Fryzdownloader\bin\Release\net5.0-windows\publish\Fryzdownloader.pdb
+C:\Users\Fryz\source\repos\Fryzdownloader\Fryzdownloader\bin\Release\net5.0-windows\publish\Fryzdownloader.exe
