@@ -18,4 +18,5 @@ Anime girls on the homepage is Ryuko (Kill la Kill), Akeno (Highschool DxD), Toh
 All three are my top personal favorites and I had nothing else to add on the homepage.
 
 https://www.virustotal.com/gui/file-analysis/MjM3OTk3NzMwYTUxZTAxMDgzZWVmY2Y4NDY1MTFkZGQ6MTY1OTQxNjA5Nw==
+![image](https://i.imgur.com/bKX8S0E.png)
 Discord if not banned yet: Fryz#9510
