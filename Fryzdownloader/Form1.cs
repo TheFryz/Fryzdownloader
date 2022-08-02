@@ -87,7 +87,7 @@ namespace Fryzdownloader
 
             if (Media == "spotify")
             {
-                if (spotifyplaylist.Checked == true) { playlist = true; }
+                if (spotifyplaylist.Checked == true) { playlist = true; } else { playlist = false; }
                 if (spotifyMp3.Checked == true) { Format = ".mp3"; } else { Format = ".mp4"; }
                 if (spotifyMetadata.Checked == true) { Metadata = true; } else { Metadata = false; }
                 
@@ -96,14 +96,14 @@ namespace Fryzdownloader
             }
             if (Media == "youtube")
             {
-                if (youtubeplaylist.Checked == true) { playlist = true; }
+                if (youtubeplaylist.Checked == true) { playlist = true; } else { playlist = false; }
                 if (youtubeMp3.Checked == true) { Format = ".mp3"; } else { Format = ".mp4"; }
                 Link = youtubeLink.Text;
                 Youtube exec = new Youtube(Link, Format, playlist);
             }
             if (Media == "soundcloud")
             {
-                if (soundcloudplaylist.Checked == true) { playlist = true; }
+                if (soundcloudplaylist.Checked == true) { playlist = true; } else playlist = false;
                 if (soundcloudMp3.Checked == true) { Format = ".mp3"; } else { Format = ".mp4"; }
                 Link = soundcloudLink.Text;
                 Soundcloud exec = new Soundcloud(Link, Format, playlist);
