@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BuVszH4q0Rnrurzxd5072hPxGX/OQtHwuf6+BGrSk5JueXnz+G8RLQcCgicY6e2oKSYZNPvArXuqP2dw7ie9wQ==",
+  "dgSpecHash": "P1gnNFZelxlJ7+3Afw2lQTTmw9XSZ1m+a9SW+xH6lv4lcRhfvLvuJHQIQF1yWW71XO322OEcoma8+wu03LAqdA==",
   "success": true,
-  "projectFilePath": "D:\\Fryzdownloader\\Fryzdownloader\\Fryzdownloader.csproj",
+  "projectFilePath": "C:\\Users\\Fryz\\Documents\\Fryzdownloader\\Fryzdownloader\\Fryzdownloader.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fryz\\.nuget\\packages\\anglesharp\\0.17.0\\anglesharp.0.17.0.nupkg.sha512",
     "C:\\Users\\Fryz\\.nuget\\packages\\cliwrap\\3.4.4\\cliwrap.3.4.4.nupkg.sha512",
